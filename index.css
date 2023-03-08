@@ -1,0 +1,30 @@
+
+.link{
+  text-decoration: none;
+  margin-left: 5px;
+  margin-right: 5px;
+ 
+}
+.ghost{
+  width: 60px;
+  height: 20px;
+  margin-left: 25px;
+}
+.linkler{
+  text-align: center;
+
+}
+.button{
+  color: white;
+  width: 52px;
+  background: black;
+  border-radius: 24px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+
+  
+}
